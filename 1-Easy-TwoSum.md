@@ -1,3 +1,5 @@
+
+```java
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>(nums.length);
@@ -12,3 +14,4 @@ public class Solution {
         throw new IllegalArgumentException("not found");
     }
 }
+```

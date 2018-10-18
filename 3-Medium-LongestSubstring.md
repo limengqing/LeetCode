@@ -1,8 +1,9 @@
+```java
 /**
  * @see https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 class Solution {
-  public int lengthOfLongestSubstring(String s) {
+    public int lengthOfLongestSubstring(String s) {
     int r = 0;
     int l = s.length();
     char[] ca = s.toCharArray();
@@ -22,7 +23,7 @@ class Solution {
           }
           add = true;
         }
-
+    
         if (add) {
           ri++;
         } else {
@@ -33,5 +34,6 @@ class Solution {
       r = Math.max(r, ri);
     }
     return r;
-  }
+    }
 }
+```

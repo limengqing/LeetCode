@@ -1,3 +1,4 @@
+```java
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -25,13 +26,16 @@ public class Solution {
                 tail.next = newTail;
                 tail = newTail;
             }
-
+    
             l1 = null != l1 ? l1.next : null;
             l2 = null != l2 ? l2.next : null;
-
+    
             add = sum > 9 ? 1 : 0;
         }
         
         return result;
     }
 }
+java
+
+```

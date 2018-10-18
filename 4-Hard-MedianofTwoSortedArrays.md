@@ -1,3 +1,4 @@
+```java
 /**
  * @see https://leetcode.com/problems/median-of-two-sorted-arrays/
  */
@@ -38,13 +39,13 @@ class Solution {
       }
       pos++;
     }
-
+    
     while (pos1 < nums1.length) {
       target[pos] = nums1[pos1];
       ++pos1;
       ++pos;
     }
-
+    
     while (pos2 < nums2.length) {
       target[pos] = nums2[pos2];
       ++pos2;
@@ -59,3 +60,5 @@ class Solution {
 
 
 }
+​````
+```
