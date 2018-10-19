@@ -6,5 +6,5 @@
 
 20181018 [190-Easy-Reverse-Bits](./190-Easy-Reverse-Bits.md)
 
-20181019 [8-Medium-StringToInteger](./8-Medium-StringToInteger.md)
+20181019 [8-Medium-StringToInteger](./8-Medium-StringToInteger.md) & [65-Hard-ValidNumber](./65-Hard-ValidNumber.md)
 
