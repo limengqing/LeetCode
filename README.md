@@ -8,3 +8,4 @@
 
 20181019 [8-Medium-StringToInteger](./8-Medium-StringToInteger.md) & [65-Hard-ValidNumber](./65-Hard-ValidNumber.md)
 
+20181022 [13-Easy-RomanToInteger](./13-Easy-RomanToInteger.md)
