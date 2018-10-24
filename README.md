@@ -12,4 +12,4 @@
 
 20181023 [21-Easy-MergeTwoSortedLists](./21-Easy-MergeTwoSortedLists.md)
 
-20181024 [9-Easy-PalindromeNumber](./9-Easy-PalindromeNumber.md)
+20181024 [9-Easy-PalindromeNumber](./9-Easy-PalindromeNumber.md) & [14-Easy-LongestCommonPrefix](./14-Easy-LongestCommonPrefix.md)
