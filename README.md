@@ -9,3 +9,7 @@
 20181019 [8-Medium-StringToInteger](./8-Medium-StringToInteger.md) & [65-Hard-ValidNumber](./65-Hard-ValidNumber.md)
 
 20181022 [13-Easy-RomanToInteger](./13-Easy-RomanToInteger.md)
+
+20181023 [21-Easy-MergeTwoSortedLists](./21-Easy-MergeTwoSortedLists.md)
+
+20181024 [9-Easy-PalindromeNumber](./9-Easy-PalindromeNumber.md)
