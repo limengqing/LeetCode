@@ -16,4 +16,4 @@
 
 20181025 [5-Medium-LongestPalindromicSubstring](./5-Medium-LongestPalindromicSubstring.md)
 
-20181101 [27-Easy-RemoveElement](./27-Easy-RemoveElement.md)
+20181101 [27-Easy-RemoveElement](./27-Easy-RemoveElement.md) & [26-Easy-RemoveDuplicatesFromSortedArray](./26-Easy-RemoveDuplicatesFromSortedArray.md)
