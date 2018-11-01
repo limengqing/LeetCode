@@ -15,3 +15,5 @@
 20181024 [9-Easy-PalindromeNumber](./9-Easy-PalindromeNumber.md) & [14-Easy-LongestCommonPrefix](./14-Easy-LongestCommonPrefix.md)
 
 20181025 [5-Medium-LongestPalindromicSubstring](./5-Medium-LongestPalindromicSubstring.md)
+
+20181101 [27-Easy-RemoveElement](./27-Easy-RemoveElement.md)
