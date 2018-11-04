@@ -17,3 +17,5 @@
 20181025 [5-Medium-LongestPalindromicSubstring](./5-Medium-LongestPalindromicSubstring.md)
 
 20181101 [27-Easy-RemoveElement](./27-Easy-RemoveElement.md) & [26-Easy-RemoveDuplicatesFromSortedArray](./26-Easy-RemoveDuplicatesFromSortedArray.md)
+
+20181104 [771-Easy-JewelsAndStones](./771-Easy-JewelsAndStones.md) & [929-Easy-unique-email-addresses](./929-Easy-unique-email-addresses.md) & [709-Easy-to-lower-case](./709-Easy-to-lower-case.md)
