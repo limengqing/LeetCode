@@ -19,3 +19,5 @@
 20181101 [27-Easy-RemoveElement](./27-Easy-RemoveElement.md) & [26-Easy-RemoveDuplicatesFromSortedArray](./26-Easy-RemoveDuplicatesFromSortedArray.md)
 
 20181104 [771-Easy-JewelsAndStones](./771-Easy-JewelsAndStones.md) & [929-Easy-unique-email-addresses](./929-Easy-unique-email-addresses.md) & [709-Easy-to-lower-case](./709-Easy-to-lower-case.md)
+
+20181105 [654-Medium-maximum-binary-tree](./654-Medium-maximum-binary-tree.md)
