@@ -20,4 +20,4 @@
 
 20181104 [771-Easy-JewelsAndStones](./771-Easy-JewelsAndStones.md) & [929-Easy-unique-email-addresses](./929-Easy-unique-email-addresses.md) & [709-Easy-to-lower-case](./709-Easy-to-lower-case.md)
 
-20181105 [654-Medium-maximum-binary-tree](./654-Medium-maximum-binary-tree.md)
+20181105 [654-Medium-maximum-binary-tree](./654-Medium-maximum-binary-tree.md) & [905-Easy-sort-array-by-parity](./905-Easy-sort-array-by-parity.md)
