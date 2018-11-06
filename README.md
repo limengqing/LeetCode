@@ -22,4 +22,4 @@
 
 20181105 [654-Medium-maximum-binary-tree](./654-Medium-maximum-binary-tree.md) & [905-Easy-sort-array-by-parity](./905-Easy-sort-array-by-parity.md) & [921-Medium-minimum-add-to-make-parentheses-valid](./921-Medium-minimum-add-to-make-parentheses-valid.md)
 
-20181106 [461-Easy-hamming-distance](./461-Easy-hamming-distance.md) & [617-Easy-merge-two-binary-trees](./617-Easy-merge-two-binary-trees.md) & [338-Medium-counting-bits](./338-Medium-counting-bits.md) & [104-Easy-maximum-depth-of-binary-tree](./104-Easy-maximum-depth-of-binary-tree.md) & [136-Easy-single-number](./136-Easy-single-number.md) & [389-Easy-find-the-difference](./389-Easy-find-the-difference.md)
+20181106 [461-Easy-hamming-distance](./461-Easy-hamming-distance.md) & [617-Easy-merge-two-binary-trees](./617-Easy-merge-two-binary-trees.md) & [338-Medium-counting-bits](./338-Medium-counting-bits.md) & [104-Easy-maximum-depth-of-binary-tree](./104-Easy-maximum-depth-of-binary-tree.md) & [136-Easy-single-number](./136-Easy-single-number.md) & [389-Easy-find-the-difference](./389-Easy-find-the-difference.md) & [268-Easy-missing-number](./268-Easy-missing-number.md)
