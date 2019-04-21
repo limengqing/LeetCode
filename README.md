@@ -25,3 +25,5 @@
 20181106 [461-Easy-hamming-distance](./461-Easy-hamming-distance.md) & [617-Easy-merge-two-binary-trees](./617-Easy-merge-two-binary-trees.md) & [338-Medium-counting-bits](./338-Medium-counting-bits.md) & [104-Easy-maximum-depth-of-binary-tree](./104-Easy-maximum-depth-of-binary-tree.md) & [136-Easy-single-number](./136-Easy-single-number.md) & [389-Easy-find-the-difference](./389-Easy-find-the-difference.md) & [268-Easy-missing-number](./268-Easy-missing-number.md) & [287-Medium-find-the-duplicate-number](./287-Medium-find-the-duplicate-number.md)
 
 20181111 [938-Medium-range-sum-of-bst-golang](./938-Medium-range-sum-of-bst-golang.md) 
+
+20190421 [1029-two-city-scheduling](./1029-two-city-scheduling.md) & [1030-matrix-cells-in-distance-order](./1030-matrix-cells-in-distance-order.md)
